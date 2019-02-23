@@ -1,6 +1,5 @@
 import { Component } from "@angular/core";
-import { Course } from "./core/course.model";
-import { CourseService } from "./core/course.service";
+import { Course, CourseService } from "./core";
 import { tap } from "rxjs/operators";
 
 @Component({
