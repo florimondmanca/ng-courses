@@ -1,4 +1,4 @@
-# ng-students
+# ng-courses
 
 This repo is the supporting material for two blog posts:
 
