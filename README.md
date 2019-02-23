@@ -21,6 +21,8 @@ The backend server requires Python 3.6+. Its only dependency is [Bocadillo], whi
 pip install bocadillo
 ```
 
+Alternatively, if you're using [pipenv](https://github.com/pypa/pipenv), you can run `pipenv install`.
+
 ## Quick start
 
 First, fire up the backend server:
