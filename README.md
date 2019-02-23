@@ -2,7 +2,8 @@
 
 This repo is the supporting material for the following blog posts:
 
-- [Consuming APIs in Angular: The Model-Adapter Pattern](https://blog.florimondmanca.com/consuming-apis-in-angular-the-model-adapter-pattern)
+- [Consuming APIs In Angular: The Model-Adapter Pattern](https://blog.florimondmanca.com/consuming-apis-in-angular-the-model-adapter-pattern)
+- [Consuming APIs In Angular: Displaying Data In Components](https://blog.florimondmanca.com/consuming-apis-in-angular-displaying-data-in-components)
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.5.
 
