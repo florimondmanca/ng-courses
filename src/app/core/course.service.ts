@@ -13,7 +13,7 @@ export class CourseService {
   constructor(private http: HttpClient, private adapter: CourseAdapter) {}
 
   list(): Observable<Course[]> {
-    const url = `${this.baseUrl}/`;
+    const url = this.baseUrl;
     return this.http
       .get(url)
       .pipe(map((data: any[]) => data.map(item => this.adapter.adapt(item))));

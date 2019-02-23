@@ -2,7 +2,10 @@ from bocadillo import App
 
 
 def create_app():
-    app = App()
+    app = App(
+        enable_cors=True,
+        cors_config={"allow_origins": ["*"], "allow_methods": ["*"]},
+    )
 
     _COURSES = [
         {
