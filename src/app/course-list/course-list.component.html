@@ -1,0 +1,8 @@
+<ul>
+  <li *ngFor="let course of courses">
+    <p>
+      {{ course.name }} • {{ course.code }} • Created
+      {{ course.created | date }}
+    </p>
+  </li>
+</ul>
