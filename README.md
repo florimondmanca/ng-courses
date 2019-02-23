@@ -9,7 +9,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 ## Install
 
-For the Angular project, install dependencies with:
+For the Angular app, install dependencies with:
 
 ```bash
 npm install
@@ -38,3 +38,7 @@ ng serve
 ```
 
 Navigate to `http://localhost:4200` to see the result. 🎊
+
+## License
+
+MIT
