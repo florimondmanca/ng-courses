@@ -2,6 +2,9 @@
 
 <ul>
   <li *ngFor="let course of courses">
-    {{ course.title }}
+    <p>
+      {{ course.name }} • {{ course.code }} • Created
+      {{ course.created | date }}
+    </p>
   </li>
 </ul>
