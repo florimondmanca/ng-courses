@@ -1,9 +1,8 @@
 # ng-courses
 
-This repo is the supporting material for two blog posts:
+This repo is the supporting material for the following blog posts:
 
-- [Consuming APIs in Angular: The Model-Adapter Pattern]
-- [Consuming APIs in Angular: Display Data In Components]
+- [Consuming APIs in Angular: The Model-Adapter Pattern](https://blog.florimondmanca.com/consuming-apis-in-angular-the-model-adapter-pattern)
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.5.
 
